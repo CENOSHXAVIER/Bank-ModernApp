@@ -2,7 +2,7 @@ import styles from '../style';
 import {stats} from '../constants';
 
 const Stats = () => (
-    <section className={`${styles.flexCenter} flex-row flex-wrap sm:mb-20 mb-6`}>
+    <section className={`ss:${styles.flexCenter} flex-row flex-wrap sm:mb-20 mb-6`}>
       {stats.map((stat)=>
         (
           <div key={stat.id} className='flex flex-1 flex-row justify-start items-center  '>
