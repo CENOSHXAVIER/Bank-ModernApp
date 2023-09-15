@@ -15,7 +15,7 @@ const Testimonials = () => (
         </div>
       </div>
 
-      <div className='flex flex-wrap'>
+      <div className='flex flex-wrap mt-5'>
         {feedback.map((card)=> <FeedbackCard key={card.id} {...card} />)}
       </div>
     </section>
