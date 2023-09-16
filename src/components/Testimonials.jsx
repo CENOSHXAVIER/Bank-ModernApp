@@ -8,7 +8,7 @@ const Testimonials = () => (
         <h2 className={`${styles.heading2} flex `}>
           What People are <br className='sm:block hidden'/> saying about us
         </h2>
-        <div className='w-full flex flex1justify-center items-center '>
+        <div className='w-full flex flex1 justify-center items-center '>
         <p className={`${styles.paragraph} text-left`}>
         Everything you need to accept card payments and grow your business anywhere on the planet.
         </p>
