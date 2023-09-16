@@ -28,7 +28,7 @@ const Footer = () => (
         </div>   
       </div>
 
-      <div className='flex flex-1 justify-between items-center w-full md:flex-row flex-col border-t-[1px] border-t-[#3F3E45]'>
+      <div className='flex flex-1 justify-between items-center w-full md:flex-row flex-col border-t-[1px] border-t-[#3F3E45] pt-3'>
         <p className=' font-poppins font-normal text-[15px] leading-[27px] text-white mb-3 md:mb-0'>Copyright Ⓒ 2022 HooBank. All Rights Reserved.</p>
         
         <div className='flex flex-row'>
